@@ -1,0 +1,1 @@
+# goalai-assets

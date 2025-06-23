@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="528" viewBox="0 0 1280 528" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="1280" height="528" fill="#FFFFFF"/>
+  <!-- Goal AI text, Geist Sans Regular 352px, 40px margins -->
+  <text x="40" y="300" font-family="Geist Sans, sans-serif" font-size="352" fill="#000000">
+    Goal AI
+  </text>
+</svg>
